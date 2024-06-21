@@ -136,4 +136,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, please open an issue in the repository or contact the maintainer at [your.email@example.com](mailto:your.email@example.com).
+For questions or support, please open an issue in the repository or contact the maintainer at [hasan.2106512@studenti.uniroma1.it](mailto:hasan.2106512@studenti.uniroma1.it)
